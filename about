@@ -1,0 +1,9 @@
+The project contains three main files that work together to implement the Password Strength Checker
+The **index.html** file defines the structure of the web page, including the password input field, 
+strength indicator, and layout of the interface. The **style.css** file is responsible for the visual
+design of the application, providing colors, layout styling, and responsive formatting to make the 
+interface attractive and user-friendly. The **script.js** file contains the core logic of the 
+application, using JavaScript to analyze the entered password in real time based on factors 
+such as length, uppercase letters, numbers, and special characters, and dynamically display 
+the password strength as Weak, Medium, or Strong.
+
